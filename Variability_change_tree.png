@@ -1,0 +1,63 @@
+// Organization Chart
+digraph {
+	graph [rankdir=TB]
+	edge [arrowsize=0.6]
+	"Configurable business process" [label="Configurable business process"]
+	"Configurable business process" -> VF1
+	"Configurable business process" -> VF2
+	"Configurable business process" -> VF3
+	VF1 [label=VF1]
+	VF1 -> V1
+	VF1 -> VP1
+	VF1 -> S1
+	V1 [label=V1]
+	V1 -> B1
+	V1 -> B2
+	V1 -> B3
+	VP1 [label=VP1]
+	VP1 -> A1
+	VP1 -> A2
+	S1 [label=S1]
+	S1 -> H1
+	VF2 [label=VF2]
+	VF2 -> S2
+	VF2 -> VP2
+	S2 [label=S2]
+	S2 -> H1
+	VP2 [label=VP2]
+	VP2 -> I1
+	VP2 -> I2
+	VP2 -> I3
+	VF3 [label=VF3]
+	VF3 -> V3
+	VF3 -> VP3
+	V3 [label=V3]
+	V3 -> A1
+	V3 -> A2
+	VP3 [label=VP3]
+	VP3 -> B1
+	VP3 -> B2
+	VP3 -> B3
+	A1 [label=A1]
+	A1 -> "W(11)"
+	"W(11)" [label="W(11)"]
+	"W(11)" -> "Z(5)"
+	"Z(5)" [label="Z(5)"]
+	"Z(5)" -> "M(2)"
+	"M(2)" [label="M(2)"]
+	"M(2)" -> C
+	C [label=C]
+	C -> "Z(2)"
+	H1 [label=H1]
+	H1 -> "C(12)"
+	"C(12)" [label="C(12)"]
+	"C(12)" -> "R(8)"
+	"R(8)" [label="R(8)"]
+	"R(8)" -> "C(10)"
+	B2 [label=B2]
+	B2 -> "L(2)"
+	I3 [label=I3]
+	I3 -> "N(6)"
+	"N(6)" [label="N(6)"]
+	"N(6)" -> "F(6)"
+}

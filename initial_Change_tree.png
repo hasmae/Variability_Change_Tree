@@ -1,0 +1,41 @@
+// Organization Chart
+digraph {
+	graph [rankdir=TB]
+	edge [arrowsize=0.6]
+	"Configurable business process" [label="Configurable business process"]
+	"Configurable business process" -> VF1
+	"Configurable business process" -> VF2
+	"Configurable business process" -> VF3
+	VF1 [label=VF1]
+	VF1 -> V1
+	VF1 -> VP1
+	VF1 -> S1
+	V1 [label=V1]
+	V1 -> B1
+	V1 -> B2
+	V1 -> B3
+	VP1 [label=VP1]
+	VP1 -> A1
+	VP1 -> A2
+	S1 [label=S1]
+	S1 -> H1
+	VF2 [label=VF2]
+	VF2 -> S2
+	VF2 -> VP2
+	S2 [label=S2]
+	S2 -> H1
+	VP2 [label=VP2]
+	VP2 -> I1
+	VP2 -> I2
+	VP2 -> I3
+	VF3 [label=VF3]
+	VF3 -> V3
+	VF3 -> VP3
+	V3 [label=V3]
+	V3 -> A1
+	V3 -> A2
+	VP3 [label=VP3]
+	VP3 -> B1
+	VP3 -> B2
+	VP3 -> B3
+}

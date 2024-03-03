@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+<change>
+ <id>1</id>
+ <date>2019-01-14T20:03:01.012345</date>
+ <trace>1528</trace>
+ <pv>1</pv>
+ <fragement_id>211</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>3</id>
+ <date>2019-01-15T14:03:01.012345</date>
+ <trace>1530</trace>
+ <pv>1</pv>
+ <fragement_id>223</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>4</id>
+ <date>2019-01-15T23:03:01.012345</date>
+ <trace>1531</trace>
+ <pv>1</pv>
+ <fragement_id>229</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>5</id>
+ <date>2019-01-16T08:03:01.012345</date>
+ <trace>1532</trace>
+ <pv>1</pv>
+ <fragement_id>235</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>6</id>
+ <date>2019-01-16T17:03:01.012345</date>
+ <trace>1533</trace>
+ <pv>1</pv>
+ <fragement_id>241</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>7</id>
+ <date>2019-01-17T02:03:01.012345</date>
+ <trace>1534</trace>
+ <pv>1</pv>
+ <fragement_id>247</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>8</id>
+ <date>2019-01-17T11:03:01.012345</date>
+ <trace>1535</trace>
+ <pv>1</pv>
+ <fragement_id>253</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>9</id>
+ <date>2019-01-17T20:03:01.012345</date>
+ <trace>1536</trace>
+ <pv>1</pv>
+ <fragement_id>259</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>10</id>
+ <date>2019-01-18T05:03:01.012345</date>
+ <trace>1537</trace>
+ <pv>1</pv>
+ <fragement_id>265</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>11</id>
+ <date>2019-01-18T14:03:01.012345</date>
+ <trace>1538</trace>
+ <pv>1</pv>
+ <fragement_id>271</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>12</id>
+ <date>2019-01-18T23:03:01.012345</date>
+ <trace>1539</trace>
+ <pv>1</pv>
+ <fragement_id>277</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>13</id>
+ <date>2019-01-19T08:03:01.012345</date>
+ <trace>1540</trace>
+ <pv>1</pv>
+ <fragement_id>283</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>14</id>
+ <date>2019-01-19T17:03:01.012345</date>
+ <trace>1541</trace>
+ <pv>1</pv>
+ <fragement_id>289</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>15</id>
+ <date>2019-01-20T02:03:01.012345</date>
+ <trace>1542</trace>
+ <pv>1</pv>
+ <fragement_id>295</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>16</id>
+ <date>2019-01-20T11:03:01.012345</date>
+ <trace>1543</trace>
+ <pv>1</pv>
+ <fragement_id>301</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>17</id>
+ <date>2019-01-20T20:03:01.012345</date>
+ <trace>1544</trace>
+ <pv>1</pv>
+ <fragement_id>307</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>18</id>
+ <date>2019-01-21T05:03:01.012345</date>
+ <trace>1545</trace>
+ <pv>1</pv>
+ <fragement_id>313</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>19</id>
+ <date>2019-01-21T14:03:01.012345</date>
+ <trace>1546</trace>
+ <pv>1</pv>
+ <fragement_id>319</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>20</id>
+ <date>2019-01-21T23:03:01.012345</date>
+ <trace>1547</trace>
+ <pv>1</pv>
+ <fragement_id>325</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>21</id>
+ <date>2019-01-22T08:03:01.012345</date>
+ <trace>1548</trace>
+ <pv>1</pv>
+ <fragement_id>331</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>22</id>
+ <date>2019-01-22T17:03:01.012345</date>
+ <trace>1549</trace>
+ <pv>1</pv>
+ <fragement_id>337</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>23</id>
+ <date>2019-01-23T02:03:01.012345</date>
+ <trace>1550</trace>
+ <pv>1</pv>
+ <fragement_id>343</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>24</id>
+ <date>2019-01-23T11:03:01.012345</date>
+ <trace>1551</trace>
+ <pv>1</pv>
+ <fragement_id>349</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>25</id>
+ <date>2019-01-23T20:03:01.012345</date>
+ <trace>1552</trace>
+ <pv>1</pv>
+ <fragement_id>355</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>26</id>
+ <date>2019-01-24T05:03:01.012345</date>
+ <trace>1553</trace>
+ <pv>1</pv>
+ <fragement_id>361</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>27</id>
+ <date>2019-01-24T14:03:01.012345</date>
+ <trace>1554</trace>
+ <pv>1</pv>
+ <fragement_id>367</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>28</id>
+ <date>2019-01-24T23:03:01.012345</date>
+ <trace>1555</trace>
+ <pv>1</pv>
+ <fragement_id>373</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>29</id>
+ <date>2019-01-25T08:03:01.012345</date>
+ <trace>1556</trace>
+ <pv>1</pv>
+ <fragement_id>379</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>30</id>
+ <date>2019-01-25T17:03:01.012345</date>
+ <trace>1557</trace>
+ <pv>1</pv>
+ <fragement_id>385</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>31</id>
+ <date>2019-01-26T02:03:01.012345</date>
+ <trace>1558</trace>
+ <pv>1</pv>
+ <fragement_id>391</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>32</id>
+ <date>2019-01-26T11:03:01.012345</date>
+ <trace>1559</trace>
+ <pv>1</pv>
+ <fragement_id>397</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>33</id>
+ <date>2019-01-26T20:03:01.012345</date>
+ <trace>1560</trace>
+ <pv>1</pv>
+ <fragement_id>403</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>34</id>
+ <date>2019-01-27T05:03:01.012345</date>
+ <trace>1561</trace>
+ <pv>1</pv>
+ <fragement_id>409</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>35</id>
+ <date>2019-01-27T14:03:01.012345</date>
+ <trace>1562</trace>
+ <pv>1</pv>
+ <fragement_id>415</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>36</id>
+ <date>2019-01-27T23:03:01.012345</date>
+ <trace>1563</trace>
+ <pv>1</pv>
+ <fragement_id>421</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>37</id>
+ <date>2019-01-28T08:03:01.012345</date>
+ <trace>1564</trace>
+ <pv>1</pv>
+ <fragement_id>427</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>38</id>
+ <date>2019-01-28T17:03:01.012345</date>
+ <trace>1565</trace>
+ <pv>1</pv>
+ <fragement_id>433</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>39</id>
+ <date>2019-01-29T02:03:01.012345</date>
+ <trace>1566</trace>
+ <pv>1</pv>
+ <fragement_id>439</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>40</id>
+ <date>2019-01-29T11:03:01.012345</date>
+ <trace>1567</trace>
+ <pv>1</pv>
+ <fragement_id>445</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>41</id>
+ <date>2019-01-29T20:03:01.012345</date>
+ <trace>1568</trace>
+ <pv>1</pv>
+ <fragement_id>451</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>42</id>
+ <date>2019-01-30T05:03:01.012345</date>
+ <trace>1569</trace>
+ <pv>1</pv>
+ <fragement_id>457</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>43</id>
+ <date>2019-01-30T14:03:01.012345</date>
+ <trace>1570</trace>
+ <pv>1</pv>
+ <fragement_id>463</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>44</id>
+ <date>2019-01-30T23:03:01.012345</date>
+ <trace>1571</trace>
+ <pv>1</pv>
+ <fragement_id>469</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>45</id>
+ <date>2019-01-31T08:03:01.012345</date>
+ <trace>1572</trace>
+ <pv>1</pv>
+ <fragement_id>475</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>46</id>
+ <date>2019-01-31T17:03:01.012345</date>
+ <trace>1573</trace>
+ <pv>1</pv>
+ <fragement_id>481</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>47</id>
+ <date>2019-02-01T02:03:01.012345</date>
+ <trace>1574</trace>
+ <pv>1</pv>
+ <fragement_id>487</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>48</id>
+ <date>2019-02-01T11:03:01.012345</date>
+ <trace>1575</trace>
+ <pv>1</pv>
+ <fragement_id>493</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>A1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>49</id>
+ <date>2019-01-07T02:03:01.012345</date>
+ <trace>5507</trace>
+ <pv>2</pv>
+ <fragement_id>687</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>50</id>
+ <date>2019-01-07T20:03:01.012345</date>
+ <trace>5509</trace>
+ <pv>2</pv>
+ <fragement_id>699</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>51</id>
+ <date>2019-01-08T05:03:01.012345</date>
+ <trace>5510</trace>
+ <pv>2</pv>
+ <fragement_id>705</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>52</id>
+ <date>2019-01-08T14:03:01.012345</date>
+ <trace>5511</trace>
+ <pv>2</pv>
+ <fragement_id>711</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>53</id>
+ <date>2019-01-08T23:03:01.012345</date>
+ <trace>5512</trace>
+ <pv>2</pv>
+ <fragement_id>717</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>54</id>
+ <date>2019-01-09T06:03:01.012345</date>
+ <trace>5513</trace>
+ <pv>2</pv>
+ <fragement_id>722</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>55</id>
+ <date>2019-01-09T15:03:01.012345</date>
+ <trace>5514</trace>
+ <pv>2</pv>
+ <fragement_id>729</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>56</id>
+ <date>2019-01-10T09:03:01.012345</date>
+ <trace>5516</trace>
+ <pv>2</pv>
+ <fragement_id>742</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>57</id>
+ <date>2019-01-11T14:03:01.012345</date>
+ <trace>5519</trace>
+ <pv>2</pv>
+ <fragement_id>762</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>58</id>
+ <date>2019-01-12T08:03:01.012345</date>
+ <trace>5521</trace>
+ <pv>2</pv>
+ <fragement_id>774</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>59</id>
+ <date>2019-01-13T18:03:01.012345</date>
+ <trace>5525</trace>
+ <pv>2</pv>
+ <fragement_id>797</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>60</id>
+ <date>2019-01-14T12:03:01.012345</date>
+ <trace>5527</trace>
+ <pv>2</pv>
+ <fragement_id>810</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>61</id>
+ <date>2019-01-14T21:03:01.012345</date>
+ <trace>5528</trace>
+ <pv>2</pv>
+ <fragement_id>817</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>62</id>
+ <date>2019-01-15T17:03:01.012345</date>
+ <trace>5530</trace>
+ <pv>2</pv>
+ <fragement_id>831</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>63</id>
+ <date>2019-01-16T02:03:01.012345</date>
+ <trace>5531</trace>
+ <pv>2</pv>
+ <fragement_id>837</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>64</id>
+ <date>2019-01-16T09:03:01.012345</date>
+ <trace>5532</trace>
+ <pv>2</pv>
+ <fragement_id>842</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>65</id>
+ <date>2019-01-16T18:03:01.012345</date>
+ <trace>5533</trace>
+ <pv>2</pv>
+ <fragement_id>849</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>66</id>
+ <date>2019-01-18T08:03:01.012345</date>
+ <trace>5537</trace>
+ <pv>2</pv>
+ <fragement_id>875</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>67</id>
+ <date>2019-01-18T15:03:01.012345</date>
+ <trace>5538</trace>
+ <pv>2</pv>
+ <fragement_id>880</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>68</id>
+ <date>2019-01-20T05:03:01.012345</date>
+ <trace>5542</trace>
+ <pv>2</pv>
+ <fragement_id>906</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>69</id>
+ <date>2019-01-20T12:03:01.012345</date>
+ <trace>5543</trace>
+ <pv>2</pv>
+ <fragement_id>911</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>70</id>
+ <date>2019-01-20T21:03:01.012345</date>
+ <trace>5544</trace>
+ <pv>2</pv>
+ <fragement_id>918</fragement_id>
+ <change_type>frag_change_Next</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>71</id>
+ <date>2019-01-21T17:03:01.012345</date>
+ <trace>5546</trace>
+ <pv>2</pv>
+ <fragement_id>932</fragement_id>
+ <change_type>frag_change_Previous</change_type>
+ <old_element>D1</old_element>
+ <new_element>newnext</new_element>
+</change>
+<change>
+ <id>72</id>
+ <date>2019-01-03T04:03:01.012345</date>
+ <trace>4612</trace>
+ <pv>3</pv>
+ <fragement_id>1213</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>73</id>
+ <date>2019-01-03T13:03:01.012345</date>
+ <trace>4613</trace>
+ <pv>3</pv>
+ <fragement_id>1219</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>74</id>
+ <date>2019-01-03T22:03:01.012345</date>
+ <trace>4614</trace>
+ <pv>3</pv>
+ <fragement_id>1225</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>75</id>
+ <date>2019-01-04T07:03:01.012345</date>
+ <trace>4615</trace>
+ <pv>3</pv>
+ <fragement_id>1231</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>76</id>
+ <date>2019-01-04T16:03:01.012345</date>
+ <trace>4616</trace>
+ <pv>3</pv>
+ <fragement_id>1237</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>77</id>
+ <date>2019-01-05T01:03:01.012345</date>
+ <trace>4617</trace>
+ <pv>3</pv>
+ <fragement_id>1243</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>78</id>
+ <date>2019-01-05T10:03:01.012345</date>
+ <trace>4618</trace>
+ <pv>3</pv>
+ <fragement_id>1249</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>79</id>
+ <date>2019-01-05T19:03:01.012345</date>
+ <trace>4619</trace>
+ <pv>3</pv>
+ <fragement_id>1255</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>80</id>
+ <date>2019-01-06T04:03:01.012345</date>
+ <trace>4620</trace>
+ <pv>3</pv>
+ <fragement_id>1261</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>81</id>
+ <date>2019-01-06T13:03:01.012345</date>
+ <trace>4621</trace>
+ <pv>3</pv>
+ <fragement_id>1267</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>82</id>
+ <date>2019-01-06T22:03:01.012345</date>
+ <trace>4622</trace>
+ <pv>3</pv>
+ <fragement_id>1273</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>83</id>
+ <date>2019-01-07T07:03:01.012345</date>
+ <trace>4623</trace>
+ <pv>3</pv>
+ <fragement_id>1279</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>84</id>
+ <date>2019-01-07T16:03:01.012345</date>
+ <trace>4624</trace>
+ <pv>3</pv>
+ <fragement_id>1285</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>85</id>
+ <date>2019-01-08T01:03:01.012345</date>
+ <trace>4625</trace>
+ <pv>3</pv>
+ <fragement_id>1291</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>86</id>
+ <date>2019-01-08T10:03:01.012345</date>
+ <trace>4626</trace>
+ <pv>3</pv>
+ <fragement_id>1297</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>87</id>
+ <date>2019-01-08T19:03:01.012345</date>
+ <trace>4627</trace>
+ <pv>3</pv>
+ <fragement_id>1303</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>88</id>
+ <date>2019-01-09T04:03:01.012345</date>
+ <trace>4628</trace>
+ <pv>3</pv>
+ <fragement_id>1309</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>89</id>
+ <date>2019-01-09T13:03:01.012345</date>
+ <trace>4629</trace>
+ <pv>3</pv>
+ <fragement_id>1315</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>90</id>
+ <date>2019-01-09T22:03:01.012345</date>
+ <trace>4630</trace>
+ <pv>3</pv>
+ <fragement_id>1321</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>91</id>
+ <date>2019-01-10T07:03:01.012345</date>
+ <trace>4631</trace>
+ <pv>3</pv>
+ <fragement_id>1327</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>92</id>
+ <date>2019-01-10T16:03:01.012345</date>
+ <trace>4632</trace>
+ <pv>3</pv>
+ <fragement_id>1333</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>93</id>
+ <date>2019-01-11T01:03:01.012345</date>
+ <trace>4633</trace>
+ <pv>3</pv>
+ <fragement_id>1339</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>94</id>
+ <date>2019-01-11T10:03:01.012345</date>
+ <trace>4634</trace>
+ <pv>3</pv>
+ <fragement_id>1345</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>95</id>
+ <date>2019-01-11T19:03:01.012345</date>
+ <trace>4635</trace>
+ <pv>3</pv>
+ <fragement_id>1351</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>96</id>
+ <date>2019-01-12T04:03:01.012345</date>
+ <trace>4636</trace>
+ <pv>3</pv>
+ <fragement_id>1357</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>97</id>
+ <date>2019-01-12T13:03:01.012345</date>
+ <trace>4637</trace>
+ <pv>3</pv>
+ <fragement_id>1363</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>98</id>
+ <date>2019-01-12T22:03:01.012345</date>
+ <trace>4638</trace>
+ <pv>3</pv>
+ <fragement_id>1369</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>99</id>
+ <date>2019-01-13T07:03:01.012345</date>
+ <trace>4639</trace>
+ <pv>3</pv>
+ <fragement_id>1375</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+<change>
+ <id>100</id>
+ <date>2019-01-13T16:03:01.012345</date>
+ <trace>4640</trace>
+ <pv>3</pv>
+ <fragement_id>1381</fragement_id>
+ <change_type>change_variations</change_type>
+ <old_element>I1</old_element>
+ <new_element>newvariant</new_element>
+</change>
+</changelog>
